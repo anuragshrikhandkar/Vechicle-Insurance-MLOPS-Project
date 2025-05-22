@@ -19,5 +19,5 @@
 
 from src.pipline.training_pipeline import TrainPipeline  # or pipeline if that's correct
 
-pipeline = TrainPipeline()
-pipeline.run_pipeline()
+pipline = TrainPipeline()
+pipline.run_pipeline()
